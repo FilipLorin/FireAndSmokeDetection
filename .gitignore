@@ -1,0 +1,5 @@
+datasets/
+yolo11n.pt
+.env
+.ipynb_checkpoints
+.virtual_documents
